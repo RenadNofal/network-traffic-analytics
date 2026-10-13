@@ -2,8 +2,7 @@
 
 Analyzing one week of network flow logs from a simulated small office network using **Snowflake**, **SQL** and **Streamlit**: finding top talkers, traffic peaks, and an automated **port scan detection** rule.
 
-<img width="372" height="536" alt="Dashboard" src="https://github.com/user-attachments/assets/4e0d7339-10e4-4a3c-b5fa-365c81b26210" />
-
+[📊 View Dashboard](https://github.com/user-attachments/assets/4e0d7339-10e4-4a3c-b5fa-365c81b26210)
 
 ---
 
